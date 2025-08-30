@@ -1,4 +1,4 @@
-<img width="725" height="752" alt="image" src="https://github.com/user-attachments/assets/b0f139e1-4c78-4ab0-968a-1711b0d959a1" /># SK네트웍스 Family AI 캠프 17기 하브루타
+# SK네트웍스 Family AI 캠프 17기 하브루타
 
 AI와 함께하는 하브루타 대화 학습 프로젝트
 
