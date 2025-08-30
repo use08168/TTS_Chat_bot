@@ -23,9 +23,9 @@ AI와 함께하는 하브루타 대화 학습 프로젝트
 
 app.py 파일을 다운하고 같은 경로에 .env파일을 만들어 OPENAI_API_KEY를 입력해줍니다.
 
-pip install streamlit python-dotenv openai speechrecognition streamlit-mic-recorder pydub
+pip install streamlit python-dotenv openai speechrecognition streamlit-mic-recorder pydub 를 진행해 라이브러리를 설치해줍니다.
 
-python -m streamlit run app.py
+python -m streamlit run app.py 를 통해서 스트림릿을 실행합니다.
 
 ## 사용 방법
 
